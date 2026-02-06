@@ -35,8 +35,10 @@ This project is made for:
 ---
 
 ## 📸 Preview
+<img width="1080" height="1080" alt="1" src="https://github.com/user-attachments/assets/2220f2f0-3f83-41cc-881a-0a4e639920c2" />
+##Mobile
+<img width="1080" height="1080" alt="2" src="https://github.com/user-attachments/assets/c35232ef-3771-4a55-a1e3-4f08857008c0" />
 
-Clone of Google homepage layout with similar structure and styling.
 
 ---
 
